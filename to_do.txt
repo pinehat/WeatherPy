@@ -1,0 +1,7 @@
+* break into 60 hits or less segments
+
+* m/s vs mph?
+
+* round df
+
+* 
