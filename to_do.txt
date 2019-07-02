@@ -2,6 +2,8 @@
 
 * m/s vs mph?
 
-* round df
+* round df? city_weather.round({"B":0})
 
-* 
+* if remaining rows at least 500
+
+* end program
